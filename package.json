@@ -36,7 +36,6 @@
       "last 1 safari version"
     ]
   },
-  "packageManager": "yarn@3.5.0",
   "devDependencies": {
     "webpack": "^5.78.0"
   }
